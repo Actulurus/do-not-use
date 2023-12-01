@@ -8,4 +8,5 @@ pydub
 colorama
 openai
 python-dotenv
+python-docx
 requests
